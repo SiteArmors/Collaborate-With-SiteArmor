@@ -6,7 +6,7 @@ Welcome to the SiteArmor collaboration hub! This repository is dedicated to coll
 If you're interested in contributing or collaborating with **SiteArmor**, feel free to invite our GitHub account to your repository or reach out via the following GitHub handle:
 
 ### GitHub Handle for Invites:
-[SiteArmor GitHub](https://github.com/SiteArmor)
+[SiteArmor GitHub](https://github.com/SiteArmors)
 
 We look forward to collaborating with you!
 
