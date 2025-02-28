@@ -1,6 +1,6 @@
 # Code of Conduct
 
-SiteArmor is committed to providing a welcoming, inclusive, and respectful environment for all contributors. We believe that a diverse, safe, and respectful community enhances the quality of our project. This Code of Conduct outlines our expectations for participant behavior and provides a process for reporting unacceptable behavior.
+SiteArmors is committed to providing a welcoming, inclusive, and respectful environment for all contributors. We believe that a diverse, safe, and respectful community enhances the quality of our project. This Code of Conduct outlines our expectations for participant behavior and provides a process for reporting unacceptable behavior.
 
 By participating in this project, you are expected to honor this Code of Conduct.
 
